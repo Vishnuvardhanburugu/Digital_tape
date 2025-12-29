@@ -16,3 +16,5 @@ python src/main.py
 ## Future Work
 - Level 2: Camera calibration and lens distortion removal
 - Level 3: Non-rigid transformations such as Thin Plate Spline
+
+- Note: Images are stored under data/raw and data/reference and can be viewed via Raw/Download on GitHub.
