@@ -1,6 +1,6 @@
 ## How to Run
 pip install -r requirements.txt
-python src/main.py
+python  main.py(Windows) // python3 main.py (Mac)
 
  ## Approach
 - Selected four corner points of the wall
