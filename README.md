@@ -20,6 +20,6 @@ python src/main.py
  ## Note: 
  Images are stored under data/raw and data/reference and can be viewed via Raw/Download on GitHub.
  
- ##Note :
+ ## Current Status  :
  This project is currently under debugging and improvement.
 
